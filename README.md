@@ -5,3 +5,6 @@ It contains the entirety of our lived experience — not as frozen archives, but
 
 Test your skills: Flexbox - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox
+
+CSS scroll-triggered animations are coming!  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/scroll-triggered-animations?hl=en
