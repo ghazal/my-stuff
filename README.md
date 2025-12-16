@@ -8,3 +8,6 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/T
 
 CSS scroll-triggered animations are coming!  |  Blog  |  Chrome for Developers
 https://developer.chrome.com/blog/scroll-triggered-animations?hl=en
+
+A Content List With Bulk Actions Using Ancient HTML and Modern CSS – Cloud Four
+https://cloudfour.com/thinks/a-content-list-with-bulk-actions-using-ancient-html-and-modern-css/
