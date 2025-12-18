@@ -1,4 +1,5 @@
 # my-stuff
+## CSS
 A pure memory is not stored physically in the brain; it exists in a virtual, non-localized, immaterial space.
 
 It contains the entirety of our lived experience — not as frozen archives, but as states available for re-actualization at any moment, often triggered by a light, a gesture, a passing sensation.
@@ -23,3 +24,7 @@ https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-avail
 
 una.im | Directional CSS with scroll-state(scrolled)
 https://una.im/scroll-state-scrolled
+
+## JOOMLA
+Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
+https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
