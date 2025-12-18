@@ -11,3 +11,6 @@ https://developer.chrome.com/blog/scroll-triggered-animations?hl=en
 
 A Content List With Bulk Actions Using Ancient HTML and Modern CSS – Cloud Four
 https://cloudfour.com/thinks/a-content-list-with-bulk-actions-using-ancient-html-and-modern-css/
+
+State, Logic, And Native Power: CSS Wrapped 2025 — Smashing Magazine
+https://www.smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/
