@@ -14,3 +14,6 @@ https://cloudfour.com/thinks/a-content-list-with-bulk-actions-using-ancient-html
 
 State, Logic, And Native Power: CSS Wrapped 2025 — Smashing Magazine
 https://www.smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/
+
+11 New CSS Features Every Browser Supports in 2025 - YouTube
+https://www.youtube.com/watch?v=55uUK-iJeNM
