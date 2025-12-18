@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=55uUK-iJeNM
 
 Same-document view transitions have become Baseline Newly available  |  Blog  |  web.dev
 https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-available
+
+una.im | Directional CSS with scroll-state(scrolled)
+https://una.im/scroll-state-scrolled
