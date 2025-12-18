@@ -17,3 +17,6 @@ https://www.smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-20
 
 11 New CSS Features Every Browser Supports in 2025 - YouTube
 https://www.youtube.com/watch?v=55uUK-iJeNM
+
+Same-document view transitions have become Baseline Newly available  |  Blog  |  web.dev
+https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-available
