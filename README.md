@@ -28,6 +28,9 @@ https://una.im/scroll-state-scrolled
 Firefox 146 release notes for developers (Stable) - Mozilla | MDN
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146
 
+Different Page Transitions For Different Circumstances – Frontend Masters Blog
+https://frontendmasters.com/blog/different-page-transitions-for-different-circumstances/
+
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
