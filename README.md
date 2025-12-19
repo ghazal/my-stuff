@@ -25,6 +25,9 @@ https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-avail
 una.im | Directional CSS with scroll-state(scrolled)
 https://una.im/scroll-state-scrolled
 
+Firefox 146 release notes for developers (Stable) - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146
+
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
