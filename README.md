@@ -34,3 +34,6 @@ https://frontendmasters.com/blog/different-page-transitions-for-different-circum
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
+
+Content - Indexing API
+https://www.richeyweb.com/software/joomla/plugins/content-indexing-api
