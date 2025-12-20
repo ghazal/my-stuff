@@ -37,3 +37,6 @@ https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-m
 
 Content - Indexing API
 https://www.richeyweb.com/software/joomla/plugins/content-indexing-api
+
+Add Custom Scripts or Stylesheets to a Joomla Article
+https://www.richeyweb.com/joomla-techniques/how-to-add-custom-scripts-or-stylesheets-to-a-single-joomla-article-without-losing-your-mind
