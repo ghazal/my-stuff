@@ -31,6 +31,8 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146
 Different Page Transitions For Different Circumstances – Frontend Masters Blog
 https://frontendmasters.com/blog/different-page-transitions-for-different-circumstances/
 
+https://codepen.io/jh3y/pens/public
+
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
