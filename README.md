@@ -39,6 +39,10 @@ https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-an
 Scrollytelling on Steroids With Scroll-State Queries | CSS-Tricks
 https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/
 
+## DEMOS
+> Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
+> - Cassidy 
+
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
