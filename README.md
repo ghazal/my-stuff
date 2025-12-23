@@ -33,6 +33,9 @@ https://frontendmasters.com/blog/different-page-transitions-for-different-circum
 
 https://codepen.io/jh3y/pens/public
 
+Masonry: Things You Won’t Need A Library For Anymore — Smashing Magazine
+https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/
+
 ## JOOMLA
 Last night some SQL saved my (Joomla) site - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/november-2025/last-night-some-sql-saved-my-joomla-site
