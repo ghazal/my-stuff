@@ -61,3 +61,7 @@ https://www.richeyweb.com/software/joomla/plugins/content-indexing-api
 
 Add Custom Scripts or Stylesheets to a Joomla Article
 https://www.richeyweb.com/joomla-techniques/how-to-add-custom-scripts-or-stylesheets-to-a-single-joomla-article-without-losing-your-mind
+
+## COMMAND LINE
+Command line crash course - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
