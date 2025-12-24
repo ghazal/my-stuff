@@ -4,6 +4,9 @@ A pure memory is not stored physically in the brain; it exists in a virtual, non
 
 It contains the entirety of our lived experience — not as frozen archives, but as states available for re-actualization at any moment, often triggered by a light, a gesture, a passing sensation.
 
+A beginner-friendly guide to view transitions in CSS
+https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/
+
 Test your skills: Flexbox - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox
 
