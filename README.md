@@ -7,6 +7,9 @@ It contains the entirety of our lived experience — not as frozen archives, but
 A beginner-friendly guide to view transitions in CSS
 https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/
 
+Creating CSS carousels - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Overflow/Carousels
+
 Test your skills: Flexbox - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox
 
