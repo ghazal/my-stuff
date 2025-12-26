@@ -48,6 +48,9 @@ https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/
 IconKitchen
 https://icon.kitchen/
 
+Semantic HTML
+https://developer.mozilla.org/en-US/curriculum/core/semantic-html/
+
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
 > - Cassidy 
