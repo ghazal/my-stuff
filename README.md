@@ -72,9 +72,12 @@ https://www.richeyweb.com/software/joomla/plugins/content-indexing-api
 Add Custom Scripts or Stylesheets to a Joomla Article
 https://www.richeyweb.com/joomla-techniques/how-to-add-custom-scripts-or-stylesheets-to-a-single-joomla-article-without-losing-your-mind
 
-## COMMAND LINE - SSH
+## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
 
 How to connect to your hosting server using SSH | Christophe Avonture
 https://www.avonture.be/blog/connect-using-ssh-to-your-hosting-server/?brid=Q5wjFoN3LUDRVskej1y3mw
+
+Create your Joomla website using Docker - Part 1 | Christophe Avonture
+https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---install-joomla-with-a-cli-one-liner
