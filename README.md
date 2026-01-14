@@ -61,6 +61,9 @@ https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scr
 abs() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/abs
 
+Color format converter - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Color_format_converter
+
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
 > - Cassidy 
