@@ -58,6 +58,9 @@ https://developer.mozilla.org/en-US/curriculum/core/semantic-html/
 Toggle `position: sticky` to `position: fixed` on Scroll – Frontend Masters Blog
 https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/
 
+abs() - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/abs
+
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
 > - Cassidy 
