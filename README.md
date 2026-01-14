@@ -78,6 +78,9 @@ https://www.richeyweb.com/joomla-techniques/how-to-add-custom-scripts-or-stylesh
 SEO Tabs with details/summary
 https://www.richeyweb.com/blog/development/seo-tabs-with-details-summary
 
+Blog Roll module - The Joomla Community Magazine
+https://magazine.joomla.org/all-issues/december-2025/blog-roll-module
+
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
