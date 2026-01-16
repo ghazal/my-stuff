@@ -67,6 +67,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Color_format_conv
 sign() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/sign
 
+text-autospace - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-autospace
+
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
 > - Cassidy 
