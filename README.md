@@ -35,6 +35,9 @@ https://web.dev/blog/same-document-view-transitions-are-now-baseline-newly-avail
 una.im | Directional CSS with scroll-state(scrolled)
 https://una.im/scroll-state-scrolled
 
+una.im | Follow-the-leader pattern with CSS anchor positioning
+https://una.im/follow-the-anchor
+
 Firefox 146 release notes for developers (Stable) - Mozilla | MDN
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/146
 
