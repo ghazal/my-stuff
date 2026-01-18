@@ -99,6 +99,9 @@ https://www.richeyweb.com/blog/development/seo-tabs-with-details-summary
 Blog Roll module - The Joomla Community Magazine
 https://magazine.joomla.org/all-issues/december-2025/blog-roll-module
 
+Algorithm Options Explained for HashCash
+https://www.richeyweb.com/software/examples/hashcash/algorithm-options-explained-for-hashcash
+
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
