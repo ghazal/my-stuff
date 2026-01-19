@@ -111,3 +111,6 @@ https://www.avonture.be/blog/connect-using-ssh-to-your-hosting-server/?brid=Q5wj
 
 Create your Joomla website using Docker - Part 1 | Christophe Avonture
 https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---install-joomla-with-a-cli-one-liner
+
+Windows Terminal - Adding a SSH profile | Christophe Avonture
+https://www.avonture.be/blog/windows-terminal-ssh-profile/
