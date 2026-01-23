@@ -2,11 +2,13 @@
 ## CSS
 A pure memory is not stored physically in the brain; it exists in a virtual, non-localized, immaterial space.
 
+It contains the entirety of our lived experience — not as frozen archives, but as states available for re-actualization at any moment, often triggered by a light, a gesture, a passing sensation.
+
 https://x.com/HeartOTXHeartMD/status/2007074407554891779?s=20
 
 https://x.com/DI313_/status/2007054363907539203?s=20
 
-It contains the entirety of our lived experience — not as frozen archives, but as states available for re-actualization at any moment, often triggered by a light, a gesture, a passing sensation.
+https://www.youtube.com/@demonflyingfox
 
 A beginner-friendly guide to view transitions in CSS
 https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/
