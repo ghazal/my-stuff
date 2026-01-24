@@ -84,6 +84,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/aspect-rat
 Support for wrapped columns in multi-column layout  |  Blog  |  Chrome for Developers
 https://developer.chrome.com/blog/multicol-wrapping
 
+sign() - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/sign
+
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
 > - Cassidy 
