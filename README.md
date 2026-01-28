@@ -87,6 +87,9 @@ https://developer.chrome.com/blog/multicol-wrapping
 Stacking context - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Positioned_layout/Stacking_context#features_creating_stacking_contexts
 
+Unstacking CSS Stacking Contexts — Smashing Magazine
+https://www.smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
