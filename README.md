@@ -10,6 +10,8 @@ https://x.com/DI313_/status/2007054363907539203?s=20
 
 https://www.youtube.com/@demonflyingfox
 
+55°32'40.0"S 69°15'58.0"W
+
 A beginner-friendly guide to view transitions in CSS
 https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/
 
