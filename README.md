@@ -12,6 +12,9 @@ https://www.youtube.com/@demonflyingfox
 
 55°32'40.0"S 69°15'58.0"W
 
+Browser Score
+https://browserscore.dev/
+
 Pareidolia is the psychological term for the human tendency to attribute familiar patterns to random stimuli, such as seeing the "face" of the man on the moon, envisioning animal shapes in clouds, or hearing words in electronic static.
 
 A beginner-friendly guide to view transitions in CSS
