@@ -99,6 +99,9 @@ https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseu
 Decoding CSS Selectors: :has(:not) vs :not(:has) | Polypane
 https://polypane.app/blog/decoding-css-selectors-has-not-vs-not-has/
 
+una.im | Range Syntax for Style Queries
+https://una.im/range-style-queries/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
