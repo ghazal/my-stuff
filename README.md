@@ -102,6 +102,8 @@ https://polypane.app/blog/decoding-css-selectors-has-not-vs-not-has/
 una.im | Range Syntax for Style Queries
 https://una.im/range-style-queries/
 
+https://codepen.io/editor/chriscoyier/pen/019c0ac0-29ab-7de0-a6a6-54c15aa865c7
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
