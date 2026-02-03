@@ -107,6 +107,9 @@ https://codepen.io/editor/chriscoyier/pen/019c0ac0-29ab-7de0-a6a6-54c15aa865c7
 The Best CSS Unit Might Be a Combination | OddBird
 https://www.oddbird.net/2025/09/23/type-units/
 
+CSS in 2026: The new features reshaping frontend development - LogRocket Blog
+https://blog.logrocket.com/css-in-2026/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
