@@ -96,6 +96,9 @@ https://www.smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/
 
 https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/
 
+Decoding CSS Selectors: :has(:not) vs :not(:has) | Polypane
+https://polypane.app/blog/decoding-css-selectors-has-not-vs-not-has/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
