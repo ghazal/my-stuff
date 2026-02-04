@@ -113,6 +113,9 @@ https://www.oddbird.net/2025/09/23/type-units/
 CSS in 2026: The new features reshaping frontend development - LogRocket Blog
 https://blog.logrocket.com/css-in-2026/
 
+Combobox vs. Multiselect vs. Listbox: How To Choose The Right One — Smashing Magazine
+https://www.smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
