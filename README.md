@@ -116,6 +116,9 @@ https://blog.logrocket.com/css-in-2026/
 Combobox vs. Multiselect vs. Listbox: How To Choose The Right One — Smashing Magazine
 https://www.smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/
 
+Nice Select · February 3, 2026
+https://nerdy.dev/nice-select
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
