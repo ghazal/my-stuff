@@ -119,6 +119,9 @@ https://www.smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/
 Nice Select · February 3, 2026
 https://nerdy.dev/nice-select
 
+CSS @scope: An Alternative To Naming Conventions And Heavy Abstractions — Smashing Magazine
+https://www.smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
