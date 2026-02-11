@@ -122,6 +122,9 @@ https://nerdy.dev/nice-select
 CSS @scope: An Alternative To Naming Conventions And Heavy Abstractions — Smashing Magazine
 https://www.smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/
 
+Issue #633 - CSS Weekly
+https://css-weekly.com/issue-633
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
