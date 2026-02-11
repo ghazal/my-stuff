@@ -125,6 +125,9 @@ https://www.smashingmagazine.com/2026/02/css-scope-alternative-naming-convention
 Issue #633 - CSS Weekly
 https://css-weekly.com/issue-633
 
+A Better Way to Express Percentage Height
+https://css-tip.com/percentage-height/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
