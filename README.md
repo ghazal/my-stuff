@@ -128,6 +128,9 @@ https://css-weekly.com/issue-633
 A Better Way to Express Percentage Height
 https://css-tip.com/percentage-height/
 
+color-input.netlify.app/
+https://color-input.netlify.app/#quick-start
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
