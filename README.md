@@ -125,6 +125,9 @@ https://www.smashingmagazine.com/2026/02/css-scope-alternative-naming-convention
 Issue #633 - CSS Weekly
 https://css-weekly.com/issue-633
 
+Issue #634 - CSS Weekly
+https://css-weekly.com/issue-634
+
 A Better Way to Express Percentage Height
 https://css-tip.com/percentage-height/
 
