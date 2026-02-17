@@ -137,6 +137,9 @@ https://color-input.netlify.app/#quick-start
 anchor-scope - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/anchor-scope
 
+CodePenChallenge: Color Palettes - a Collection by Team CodePen on CodePen
+https://codepen.io/collection/MWmvbb
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
