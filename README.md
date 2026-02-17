@@ -140,6 +140,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/anchor-sco
 CodePenChallenge: Color Palettes - a Collection by Team CodePen on CodePen
 https://codepen.io/collection/MWmvbb
 
+Use Cases for Field Sizing
+https://ishadeed.com/article/field-sizing/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
