@@ -149,6 +149,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API
 content-visibility - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/content-visibility
 
+CSS containment - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
