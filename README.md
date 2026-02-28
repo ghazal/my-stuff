@@ -10,8 +10,6 @@ https://x.com/DI313_/status/2007054363907539203?s=20
 
 https://www.youtube.com/@demonflyingfox
 
-55°32'40.0"S 69°15'58.0"W
-
 Browser Score
 https://browserscore.dev/
 
@@ -157,6 +155,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length#rcap
 
 abs() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/abs
+
+Style Headings using the CSS :heading pseudo-class | Always Twisted
+https://www.alwaystwisted.com/articles/styling-with-the-heading-pseudo-class
 
 
 ## DEMOS
