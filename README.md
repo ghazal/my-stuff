@@ -161,6 +161,9 @@ https://www.alwaystwisted.com/articles/building-typographic-scales-with-headings
 Anchor Interpolated Morph (AIM) · January 23, 2026
 https://argyle.ink/anchor-interpolated-morphing
 
+Liquid Glass CSS Generator | Free Glassmorphism & Neumorphism Tool
+https://aethercss.lovable.app/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
