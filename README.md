@@ -155,6 +155,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/abs
 Style Headings using the CSS :heading pseudo-class | Always Twisted
 https://www.alwaystwisted.com/articles/styling-with-the-heading-pseudo-class
 
+Typographic Scales in CSS with :heading(), sibling-index(), and pow() | Always Twisted
+https://www.alwaystwisted.com/articles/building-typographic-scales-with-headings-sibling-index-and-pow
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
