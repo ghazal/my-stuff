@@ -158,6 +158,9 @@ https://www.alwaystwisted.com/articles/styling-with-the-heading-pseudo-class
 Typographic Scales in CSS with :heading(), sibling-index(), and pow() | Always Twisted
 https://www.alwaystwisted.com/articles/building-typographic-scales-with-headings-sibling-index-and-pow
 
+Anchor Interpolated Morph (AIM) · January 23, 2026
+https://argyle.ink/anchor-interpolated-morphing
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
