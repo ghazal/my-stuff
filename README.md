@@ -191,6 +191,9 @@ https://www.richeyweb.com/software/examples/hashcash/algorithm-options-explained
 Health Checker for Joomla - Instant Site Health Report
 https://www.joomlahealthchecker.com/
 
+Native Accordions in Joomla: Accessible, Semantic, and Bootstrap-Friendly - The Joomla Community Magazine
+https://magazine.joomla.org/component/easyblog/february-2026/native-accordions-in-joomla-accessible-semantic-and-bootstrap-friendly
+
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
