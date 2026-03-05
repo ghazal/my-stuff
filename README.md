@@ -164,6 +164,9 @@ https://argyle.ink/anchor-interpolated-morphing
 Liquid Glass CSS Generator | Free Glassmorphism & Neumorphism Tool
 https://aethercss.lovable.app/
 
+sign() - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/sign
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
