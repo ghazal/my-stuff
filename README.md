@@ -167,6 +167,9 @@ https://aethercss.lovable.app/
 sign() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/sign
 
+How Flexbox Works in CSS and How It Is Different from the Grid System - DEV Community
+https://dev.to/hamidrazadev/how-flexbox-works-in-css-and-how-it-is-different-from-the-grid-system-5b3i
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
