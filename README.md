@@ -194,6 +194,9 @@ https://www.alwaystwisted.com/articles/UnSassing-my-CSS-nesting
 Building dynamic toggletips using anchored container queries - Piccalilli
 https://piccalil.li/blog/building-dynamic-toggletips-using-anchored-container-queries/
 
+AllThingsSmitty/css-protips: ⚡️ A collection of tips to help take your CSS skills pro 🦾
+https://github.com/AllThingsSmitty/css-protips?tab=readme-ov-file
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
