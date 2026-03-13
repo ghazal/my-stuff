@@ -182,6 +182,9 @@ https://css-tricks.com/the-value-of-z-index/
 contrast-color() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/contrast-color
 
+text-wrap - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-wrap
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
