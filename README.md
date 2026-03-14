@@ -197,6 +197,9 @@ https://piccalil.li/blog/building-dynamic-toggletips-using-anchored-container-qu
 AllThingsSmitty/css-protips: ⚡️ A collection of tips to help take your CSS skills pro 🦾
 https://github.com/AllThingsSmitty/css-protips?tab=readme-ov-file
 
+Popover API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
