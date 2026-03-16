@@ -200,6 +200,9 @@ https://github.com/AllThingsSmitty/css-protips?tab=readme-ov-file
 Popover API - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
 
+CSS anchor positioning - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Anchor_positioning
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
