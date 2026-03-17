@@ -245,3 +245,6 @@ https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---
 
 Windows Terminal - Adding a SSH profile | Christophe Avonture
 https://www.avonture.be/blog/windows-terminal-ssh-profile/
+
+Quarto - How I Built a Self-Documenting Ecosystem for 50+ Projects | Christophe Avonture
+https://www.avonture.be/blog/quarto-industrialisation/
