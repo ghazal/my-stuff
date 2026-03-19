@@ -203,6 +203,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
 CSS anchor positioning - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Anchor_positioning
 
+A Guide to the CSS Backdrop-Filter Property | Always Twisted
+https://www.alwaystwisted.com/articles/beyond-the-blur-css-backdrop-filter
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
