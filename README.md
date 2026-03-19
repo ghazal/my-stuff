@@ -239,6 +239,9 @@ https://magazine.joomla.org/component/easyblog/february-2026/native-accordions-i
 Verify Joomla & WordPress Email Config | mySites.guru
 https://mysites.guru/blog/how-to-verify-joomla-email-configuration-works/
 
+Is Your Joomla robots.txt Hurting SEO? | mySites.guru
+https://mysites.guru/blog/how-to-check-joomla-robots-txt-seo/?utm_source=twitter&utm_medium=social
+
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
