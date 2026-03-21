@@ -212,6 +212,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_qu
 overscroll-behavior - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overscroll-behavior
 
+Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly — Smashing Magazine
+https://www.smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
