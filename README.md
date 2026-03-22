@@ -218,6 +218,9 @@ https://www.smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-bre
 backdrop-filter - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/backdrop-filter
 
+Three Reasons Your scroll-snap Container May Be Overflowing on Mobile - Schalk Neethling - Open Web Engineer
+https://schalkneethling.com/posts/three-reasons-your-scroll-snap-container-may-be-overflowing-on-mobile/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
