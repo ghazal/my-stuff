@@ -215,6 +215,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/overscroll
 Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly — Smashing Magazine
 https://www.smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/
 
+backdrop-filter - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/backdrop-filter
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
