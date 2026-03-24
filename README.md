@@ -224,6 +224,9 @@ https://schalkneethling.com/posts/three-reasons-your-scroll-snap-container-may-b
 Sneaky Header Blocker Trick • Josh W. Comeau
 https://www.joshwcomeau.com/css/header-blockers/
 
+Flexbox Masonry Layout (Explained with Math) – Frontend Masters Blog
+https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
