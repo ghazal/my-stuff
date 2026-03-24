@@ -233,6 +233,9 @@ https://webkit.org/blog/17474/css-grid-a-helpful-mental-model-and-the-power-of-g
 Understanding the fundamentals of CSS Layout | Polypane
 https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/
 
+An in-depth guide to customising lists with CSS - Piccalilli
+https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css/?utm_source=CSS-Weekly&utm_campaign=Issue-637&utm_medium=web
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
