@@ -227,6 +227,12 @@ https://www.joshwcomeau.com/css/header-blockers/
 Flexbox Masonry Layout (Explained with Math) – Frontend Masters Blog
 https://frontendmasters.com/blog/flexbox-masonry-layout-explained-with-math/
 
+CSS Grid: A helpful mental model and the power of grid lines | WebKit
+https://webkit.org/blog/17474/css-grid-a-helpful-mental-model-and-the-power-of-grid-lines/
+
+Understanding the fundamentals of CSS Layout | Polypane
+https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
