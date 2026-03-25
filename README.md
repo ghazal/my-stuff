@@ -273,7 +273,10 @@ Verify Joomla & WordPress Email Config | mySites.guru
 https://mysites.guru/blog/how-to-verify-joomla-email-configuration-works/
 
 Is Your Joomla robots.txt Hurting SEO? | mySites.guru
-https://mysites.guru/blog/how-to-check-joomla-robots-txt-seo/?utm_source=twitter&utm_medium=social
+https://mysites.guru/blog/how-to-check-joomla-robots-txt-seo/
+
+Clean Up Dangerous Files on Your Joomla Server | mySites.guru
+https://mysites.guru/blog/how-to-clean-up-dangerous-files-joomla-server/
 
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
