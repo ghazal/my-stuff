@@ -234,7 +234,10 @@ Understanding the fundamentals of CSS Layout | Polypane
 https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/
 
 An in-depth guide to customising lists with CSS - Piccalilli
-https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css/?utm_source=CSS-Weekly&utm_campaign=Issue-637&utm_medium=web
+https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css/
+
+CSS scroll snap - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scroll_snap
 
 
 ## DEMOS
