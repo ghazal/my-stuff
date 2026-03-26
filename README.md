@@ -239,6 +239,9 @@ https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css/
 CSS scroll snap - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scroll_snap
 
+accent-color - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/accent-color
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
