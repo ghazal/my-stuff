@@ -278,6 +278,9 @@ https://mysites.guru/blog/how-to-check-joomla-robots-txt-seo/
 Clean Up Dangerous Files on Your Joomla Server | mySites.guru
 https://mysites.guru/blog/how-to-clean-up-dangerous-files-joomla-server/
 
+Fix Joomla TinyMCE in Firefox 148 | mySites.guru
+https://mysites.guru/blog/joomla-tinymce-firefox-148-fix/
+
 ## COMMAND LINE - SSH - Docker
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
