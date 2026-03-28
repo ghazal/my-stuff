@@ -290,6 +290,9 @@ https://mysites.guru/blog/joomla-tinymce-firefox-148-fix/
 Build a Clean Joomla Header Search Popup in Minutes - For Free
 https://www.richeyweb.com/joomla-techniques/build-a-clean-joomla-header-search-popup-in-minutes-for-free
 
+Check Joomla Database Security | mySites.guru
+https://mysites.guru/blog/how-to-check-joomla-database-security
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
