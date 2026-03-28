@@ -295,10 +295,12 @@ How to connect to your hosting server using SSH | Christophe Avonture
 https://www.avonture.be/blog/connect-using-ssh-to-your-hosting-server/?brid=Q5wjFoN3LUDRVskej1y3mw
 
 Create your Joomla website using Docker - Part 1 | Christophe Avonture
+https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---install-joomla-with-a-cli-one-liner
 
 Restore Marknotes with Lovable.dev | Christophe Avonture
 https://www.avonture.be/blog/lovable-dev-ai/
-https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---install-joomla-with-a-cli-one-liner
+
+main class="col col--7"
 
 Windows Terminal - Adding a SSH profile | Christophe Avonture
 https://www.avonture.be/blog/windows-terminal-ssh-profile/
