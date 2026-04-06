@@ -299,6 +299,9 @@ https://www.richeyweb.com/joomla-techniques/build-a-clean-joomla-header-search-p
 Check Joomla Database Security | mySites.guru
 https://mysites.guru/blog/how-to-check-joomla-database-security
 
+Insert Anything Into Your Joomla Articles
+https://www.richeyweb.com/joomla-techniques/insert-anything-into-your-joomla-articles
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
