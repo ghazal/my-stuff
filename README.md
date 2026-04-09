@@ -254,6 +254,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Nesting
 image-set() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/image/image-set
 
+hyphens - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/hyphens
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
