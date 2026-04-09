@@ -251,6 +251,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Subgrid
 CSS nesting - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Nesting
 
+image-set() - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/image/image-set
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
