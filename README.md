@@ -272,6 +272,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/overf
 overflow-inline @media feature - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/overflow-inline
 
+A new way to style gaps in CSS  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/gap-decorations
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
