@@ -263,8 +263,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/contain-in
 :only-child - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:only-child
 
-updated @media feature- CSS | MDN
+updated @media feature - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/update
+
+overflow-block @media feature - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/overflow-block
+
+overflow-inline @media feature - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/overflow-inline
 
 
 ## DEMOS
