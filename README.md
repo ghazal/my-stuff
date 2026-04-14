@@ -332,6 +332,9 @@ https://www.richeyweb.com/joomla-techniques/insert-anything-into-your-joomla-art
 Build a Native Login Popup Using Only Core Joomla
 https://www.richeyweb.com/joomla-techniques/build-a-native-login-popup-using-only-core-joomla
 
+Joomla Compat Plugin: Crutch, Not a Fix | mySites.guru
+https://mysites.guru/blog/joomla-compat-plugin-is-a-crutch
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
