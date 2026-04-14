@@ -278,6 +278,9 @@ https://developer.chrome.com/blog/gap-decorations
 CSS container queries - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries
 
+Name-only @container queries: A solution to the naming wars | WebKit
+https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
