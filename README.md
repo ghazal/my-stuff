@@ -248,6 +248,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/accent-col
 Subgrid - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Subgrid
 
+CSS subgrid is super good – David Bushell – Web Dev (UK)
+https://dbushell.com/2026/04/02/css-subgrid-is-super-good/
+
 CSS nesting - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Nesting
 
