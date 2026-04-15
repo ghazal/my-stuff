@@ -284,6 +284,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_qu
 Name-only @container queries: A solution to the naming wars | WebKit
 https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/
 
+Limit the reach of your selectors with the CSS @scope at-rule  |  CSS and UI  |  Chrome for Developers
+https://developer.chrome.com/docs/css-ui/at-scope
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
