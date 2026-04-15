@@ -287,6 +287,9 @@ https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-nami
 Limit the reach of your selectors with the CSS @scope at-rule  |  CSS and UI  |  Chrome for Developers
 https://developer.chrome.com/docs/css-ui/at-scope
 
+border-inline-end-style - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-inline-end-style
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
