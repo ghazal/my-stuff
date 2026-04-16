@@ -347,6 +347,9 @@ https://www.richeyweb.com/joomla-techniques/build-a-native-login-popup-using-onl
 Joomla Compat Plugin: Crutch, Not a Fix | mySites.guru
 https://mysites.guru/blog/joomla-compat-plugin-is-a-crutch
 
+Enable POW Captcha in Joomla 6.1 | mySites.guru
+https://mysites.guru/blog/how-to-enable-pow-captcha-in-joomla-6-1/
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
