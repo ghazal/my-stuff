@@ -350,6 +350,9 @@ https://mysites.guru/blog/joomla-compat-plugin-is-a-crutch
 Enable POW Captcha in Joomla 6.1 | mySites.guru
 https://mysites.guru/blog/how-to-enable-pow-captcha-in-joomla-6-1/
 
+Joomla 6.1 Module Versioning | mySites.guru
+https://mysites.guru/blog/joomla-6-1-module-versioning/
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
