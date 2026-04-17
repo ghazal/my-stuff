@@ -290,6 +290,9 @@ https://developer.chrome.com/docs/css-ui/at-scope
 border-inline-end-style - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-inline-end-style
 
+:has() - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:has
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
