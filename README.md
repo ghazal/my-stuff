@@ -292,7 +292,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-inl
 
 :has() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:has
- > .card:has(img) { grid-template-rows: auto 1fr; }
+ EX: > .card:has(img) { grid-template-rows: auto 1fr; }
 
 
 ## DEMOS
