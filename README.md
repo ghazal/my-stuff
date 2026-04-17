@@ -292,7 +292,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-inl
 
 :has() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:has
-```css > .card:has(img) { grid-template-rows: auto 1fr; }
+``` css > .card:has(img) { grid-template-rows: auto 1fr; }
 ```
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
