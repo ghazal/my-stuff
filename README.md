@@ -358,6 +358,12 @@ https://mysites.guru/blog/how-to-enable-pow-captcha-in-joomla-6-1/
 Joomla 6.1 Module Versioning | mySites.guru
 https://mysites.guru/blog/joomla-6-1-module-versioning/
 
+6.0 to 6.1 | Joomla! Programmers Documentation
+https://manual.joomla.org/migrations/60-61/
+
+6.1 to 6.2 | Joomla! Programmers Documentation
+https://manual.joomla.org/migrations/61-62/
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
