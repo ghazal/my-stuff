@@ -295,6 +295,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:has
 
  EX:    > .card:has(img) { grid-template-rows: auto 1fr; }
 
+ CSS logical properties and values - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Logical_properties_and_values
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
