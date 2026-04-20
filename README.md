@@ -64,6 +64,9 @@ https://developer.mozilla.org/en-US/curriculum/core/semantic-html/
 Toggle `position: sticky` to `position: fixed` on Scroll – Frontend Masters Blog
 https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/
 
+CSS position: sticky now sticks to the nearest scroller on a per axis basis! – Bram.us
+https://www.bram.us/2026/03/30/css-sticky-per-axis/
+
 abs() - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/abs
 
