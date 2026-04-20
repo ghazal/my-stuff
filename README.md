@@ -149,6 +149,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/content-vi
 CSS containment - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment
 
+What Is CSS Containment and How Can I Use It? – CSS Wizardry
+https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/
+
 <length> - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/length#rcap
 
