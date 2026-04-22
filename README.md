@@ -392,6 +392,10 @@ https://www.avonture.be/blog/docker-joomla/?brid=7BYJ-n_rIotxK54v4ccppQ#bonus---
 Restore Marknotes with Lovable.dev | Christophe Avonture
 https://www.avonture.be/blog/lovable-dev-ai/
 
+## MAC
+Set up a new Mac, Fast | Christoph Nakazawa
+https://cpojer.net/posts/set-up-a-new-mac-fast
+
 main class="col col--7"
 
 Windows Terminal - Adding a SSH profile | Christophe Avonture
