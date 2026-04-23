@@ -310,6 +310,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@layer
 gap CSS property - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/gap
 
+clamp() CSS function - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
