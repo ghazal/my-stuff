@@ -313,6 +313,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/gap
 clamp() CSS function - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp
 
+:is() CSS pseudo-class - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:is
+
+:where() CSS pseudo-class - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:where
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
