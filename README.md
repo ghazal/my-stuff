@@ -319,6 +319,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:is
 :where() CSS pseudo-class - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:where
 
+CSS Recently In All Browsers · April 26, 2026
+https://nerdy.dev/CSS-recently-in-all-browsers
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
