@@ -325,6 +325,9 @@ https://nerdy.dev/CSS-recently-in-all-browsers
 color-scheme CSS property - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/color-scheme
 
+object-fit CSS property - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
