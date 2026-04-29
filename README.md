@@ -328,6 +328,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/color-sche
 object-fit CSS property - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit
 
+Scroll-Driven Animations • Josh W. Comeau
+https://www.joshwcomeau.com/animation/scroll-driven-animations/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
