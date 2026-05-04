@@ -334,6 +334,9 @@ https://www.joshwcomeau.com/animation/scroll-driven-animations/
 :focus-visible CSS pseudo-class - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:focus-visible
 
+A revisit of the Every Layout sidebar with :has() and selector performance - Piccalilli
+https://piccalil.li/blog/a-revisit-of-the-every-layout-sidebar-with-has-and-selector-performance/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
