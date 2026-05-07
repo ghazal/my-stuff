@@ -340,6 +340,10 @@ https://piccalil.li/blog/a-revisit-of-the-every-layout-sidebar-with-has-and-sele
 Popover API - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
 
+loading="lazy" sizes="auto"
+The end of responsive images - Piccalilli
+https://piccalil.li/blog/the-end-of-responsive-images/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
