@@ -344,6 +344,10 @@ loading="lazy" sizes="auto"
 The end of responsive images - Piccalilli
 https://piccalil.li/blog/the-end-of-responsive-images/
 
+Next-sibling combinator - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Next-sibling_combinator
+> li:has(+ li:last-of-type) {color: red; font-weight: bold;}
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
