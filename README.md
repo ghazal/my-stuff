@@ -351,6 +351,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Next-siblin
 An Interactive Guide to CSS Container Queries
 https://ishadeed.com/article/css-container-query-guide/
 
+The Great CSS Expansion | Butler's Log
+https://blog.gitbutler.com/the-great-css-expansion
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
