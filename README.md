@@ -347,6 +347,9 @@ https://piccalil.li/blog/the-end-of-responsive-images/
 Next-sibling combinator - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Next-sibling_combinator
 > li:has(+ li:last-of-type) {color: red; font-weight: bold;}
+>
+An Interactive Guide to CSS Container Queries
+https://ishadeed.com/article/css-container-query-guide/
 
 
 ## DEMOS
