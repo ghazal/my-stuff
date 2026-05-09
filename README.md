@@ -360,6 +360,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/blend-mode
 backdrop-filter CSS property - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/backdrop-filter
 
+CSS scroll snap - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scroll_snap
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
