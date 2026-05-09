@@ -357,6 +357,9 @@ https://blog.gitbutler.com/the-great-css-expansion
 <blend-mode> CSS type - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/blend-mode
 
+backdrop-filter CSS property - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/backdrop-filter
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
