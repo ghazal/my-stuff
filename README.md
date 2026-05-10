@@ -363,6 +363,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/backdrop-f
 CSS scroll snap - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scroll_snap
 
+:only-child CSS pseudo-class - CSS | MDN (updated)
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:only-child
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
