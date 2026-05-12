@@ -372,6 +372,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_si
 Firefox 150 release notes for developers (Stable) - Mozilla | MDN
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/150
 
+Scroll-Driven CSS in 2026: Building Carousels Without JavaScript
+https://www.sitepoint.com/scrolldriven-css-in-2026-building-carousels-without-javascript/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
