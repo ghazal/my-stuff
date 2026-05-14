@@ -444,6 +444,9 @@ https://manual.joomla.org/migrations/60-61/
 6.1 to 6.2 | Joomla! Programmers Documentation
 https://manual.joomla.org/migrations/61-62/
 
+Show it, hide it: control your Joomla modules - The Joomla Community Magazine
+https://magazine.joomla.org/all-issues/april-2026/show-it-hide-it-control-your-joomla-modules
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
