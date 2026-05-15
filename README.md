@@ -313,6 +313,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/gap
 clamp() CSS function - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp
 
+font-size: clamp(1rem, 1vw, 1.75rem);
+
 :is() CSS pseudo-class - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:is
 
