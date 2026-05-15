@@ -375,6 +375,9 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/150
 Scroll-Driven CSS in 2026: Building Carousels Without JavaScript
 https://www.sitepoint.com/scrolldriven-css-in-2026-building-carousels-without-javascript/
 
+revert-rule - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/revert-rule
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
