@@ -468,6 +468,9 @@ https://www.avonture.be/blog/lovable-dev-ai/
 Master your ssh command and select the host from a list | Christophe Avonture
 https://www.avonture.be/blog/ssh-with-fuzzy-finder/
 
+Accessing Ollama across your local network | Christophe Avonture
+https://www.avonture.be/blog/accessing-ollama-across-your-local-network/
+
 ## MAC
 Set up a new Mac, Fast | Christoph Nakazawa
 https://cpojer.net/posts/set-up-a-new-mac-fast
