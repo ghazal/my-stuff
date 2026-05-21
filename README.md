@@ -380,6 +380,9 @@ https://www.sitepoint.com/scrolldriven-css-in-2026-building-carousels-without-ja
 revert-rule - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/revert-rule
 
+Some practical examples of view transitions to elevate your UI - Piccalilli
+https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-your-ui/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
