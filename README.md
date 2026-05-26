@@ -389,6 +389,9 @@ https://www.smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibl
 CSS is filling the gaps with rules. A way to style gaps in grid and flex. | utilitybend
 https://utilitybend.com/blog/css-is-filling-the-gaps-with-rules-a-way-to-style-gaps-in-grid-and-flex
 
+The State of CSS Centering in 2026 | CSS-Tricks
+https://css-tricks.com/the-state-of-css-centering-in-2026/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
