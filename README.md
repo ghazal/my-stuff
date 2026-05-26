@@ -386,6 +386,9 @@ https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-
 Advanced Tree Counting: Mathematical Layouts With sibling-index() And sibling-count() — Smashing Magazine
 https://www.smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/
 
+CSS is filling the gaps with rules. A way to style gaps in grid and flex. | utilitybend
+https://utilitybend.com/blog/css-is-filling-the-gaps-with-rules-a-way-to-style-gaps-in-grid-and-flex
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
