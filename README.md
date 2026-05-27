@@ -392,6 +392,9 @@ https://utilitybend.com/blog/css-is-filling-the-gaps-with-rules-a-way-to-style-g
 The State of CSS Centering in 2026 | CSS-Tricks
 https://css-tricks.com/the-state-of-css-centering-in-2026/
 
+CSS vs. JavaScript • Josh W. Comeau
+https://www.joshwcomeau.com/animation/css-vs-javascript/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
