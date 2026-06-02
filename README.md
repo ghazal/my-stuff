@@ -492,6 +492,12 @@ https://www.avonture.be/blog/accessing-ollama-across-your-local-network/
 Beyond the Monolith - Organizing Your ZSH Workflow Like a Pro | Christophe Avonture
 https://www.avonture.be/blog/modular-zsh-workflow/
 
+Quarto - How I Built a Self-Documenting Ecosystem for 50+ Projects | Christophe Avonture
+https://www.avonture.be/blog/quarto-industrialisation/
+
+Claude Code - Optimizing Token Usage | Christophe Avonture
+https://www.avonture.be/blog/claude-ia-spare-tokens/
+
 ## MAC
 Set up a new Mac, Fast | Christoph Nakazawa
 https://cpojer.net/posts/set-up-a-new-mac-fast
@@ -501,5 +507,4 @@ main class="col col--7"
 Windows Terminal - Adding a SSH profile | Christophe Avonture
 https://www.avonture.be/blog/windows-terminal-ssh-profile/
 
-Quarto - How I Built a Self-Documenting Ecosystem for 50+ Projects | Christophe Avonture
-https://www.avonture.be/blog/quarto-industrialisation/
+
