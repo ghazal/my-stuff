@@ -470,6 +470,10 @@ https://magazine.joomla.org/all-issues/april-2026/show-it-hide-it-control-your-j
 Evolving Joomla: Smarter Module Assignment in Joomla - Why Inheritance Matters - Joomla Community Magazine™
 https://magazine.joomla.org/issues/2026/april-2026/smarter-module-assignment-in-joomla-why-inheritance-matters
 
+Custom Plugins, part 2: Task Plugin - Joomla Community Magazine™
+https://magazine.joomla.org/issues/2026/may-2026/custom-plugins-part-2-task-plugin
+
+
 ## COMMAND LINE - SSH - Docker - Marknotes
 Command line crash course - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
