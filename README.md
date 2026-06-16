@@ -395,6 +395,9 @@ https://css-tricks.com/the-state-of-css-centering-in-2026/
 CSS vs. JavaScript • Josh W. Comeau
 https://www.joshwcomeau.com/animation/css-vs-javascript/
 
+Transition to the Other Side with Container Query Units
+https://ryanmulligan.dev/blog/transition-to-the-other-side/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
