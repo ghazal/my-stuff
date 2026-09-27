@@ -404,6 +404,9 @@ https://github.com/sindresorhus/css-extras
 Getting Started with Anchor Positioning • Josh W. Comeau
 https://www.joshwcomeau.com/css/anchor-positioning/
 
+Detect when elements overlap with CSS
+https://ishadeed.com/article/css-detect-overlap/
+
 
 ## DEMOS
 > Hello, this is a quote! This is a demo of a blockquote where the last element is a list+list item, for the author.
